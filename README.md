@@ -9,3 +9,4 @@ the kernel are about
 * [neural machine translation (with transfromers)](https://github.com/NaderJS/kaggleKernels/blob/master/english-to-arabic-with-a-pytorch-transformer.ipynb)
 * [text classification](https://github.com/NaderJS/kaggleKernels/blob/master/classifying-hate-speech-with-a-pytorch-transformer.ipynb)
 * [question answering for the risk factors of covid19](https://github.com/NaderJS/kaggleKernels/blob/master/risk-factors-question-answering-biobert.ipynb)
+* [Conditional Variational autoencoders on faces with PyTorch](https://github.com/NaderJS/kaggleKernels/blob/master/conditional-vae-on-faces.ipynb)
